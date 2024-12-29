@@ -44,8 +44,8 @@ export default function TermsOfService() {
             <section className="space-y-4">
               <h2 className="text-2xl font-semibold text-blue-100">1. Acceptance of Terms</h2>
               <p className="text-blue-200">
-                By accessing or using MusicGuru's services, you agree to be bound by these Terms of Service. If you disagree with any part of the terms, you may not access the service.
-              </p>
+  By accessing or using MusicGuru&apos;s services, you agree to be bound by these Terms of Service. If you disagree with any part of the terms, you may not access the service.
+</p>
             </section>
 
             <section className="space-y-4">
