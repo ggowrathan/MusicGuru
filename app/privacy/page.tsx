@@ -94,8 +94,8 @@ export default function PrivacyPolicy() {
             <section className="space-y-4">
               <h2 className="text-2xl font-semibold text-blue-100">Updates to This Policy</h2>
               <p className="text-blue-200">
-                We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
-              </p>
+  At MusicGuru, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our music streaming platform, providing utmost transparency in our practices and &quot;guaranteeing&quot; your data&apos;s protection.
+</p>
               <p className="text-blue-300">Last Updated: December 28, 2024</p>
             </section>
           </div>
